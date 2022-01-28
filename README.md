@@ -1,8 +1,3 @@
-
-### Clustering/Classification on Movie Ratings Dataset
-
-#### Transformed data into a user-movie ratings matrix. Applied principal component analysis to reduce dimensionality of the movies. Applied k-means clustering to transposed movie ratings dataset. Applied singular value decomposition to the transposed user-movie matrix.
-
 ### Decision Tree ID3
 
 #### Implemented a binary decision tree using the Iterative Dichotomiser 3 algorithm and ran it against a titanic survivor dataset, considering 7 attributes such as class of travel, age, fare, etc. The first attribute "survived" is the class label.
